@@ -1,0 +1,14 @@
+body{
+    background-color: #085582;
+}
+h1{
+    color: black;
+    background-color:#90ddf0 ;
+}
+#show_sketch{
+    float: right;
+}
+p{
+    padding-top: 10px;
+    font-size: 25px;
+}
